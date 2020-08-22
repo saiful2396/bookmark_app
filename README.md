@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 You will learn bellow section:
 - Creating the Bookmark Model Class
 - Creating the Bookmarks list
+- Flutter Screen Navigation using Navigator
+- Gesture Detectors and InkWell widgets in Flutter
+- Integrating a plugin - Displaying a Webpage with WebView
+- Adding a Loader Using the Stack Widget
+- Saving a new Bookmark
+- Validating User Input Using a SnackBar
+- Retrieving the new Bookmark
+- ListView.builder
+- GridView Widget
+- Toggling Between a List and Grid
