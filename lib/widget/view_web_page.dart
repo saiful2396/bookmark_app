@@ -12,7 +12,7 @@ class ViewWebPageWidget extends StatefulWidget {
 
 class _ViewWebPageWidgetState extends State<ViewWebPageWidget> {
 
-  var _isLoadingWebPage = true;
+  bool _isLoadingWebPage = true;
 
   @override
   Widget build(BuildContext context) {

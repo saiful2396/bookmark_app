@@ -11,7 +11,7 @@ class BookmarkGridItemWidget extends StatelessWidget {
     return Card(
       elevation: 4,
       child: Padding(
-        padding: const EdgeInsets.all(12),
+        padding: const EdgeInsets.all(6),
         child: GestureDetector(
           onTap: () => navigateToViewBookmarkPage(bookmark, context),
           child: Column(
